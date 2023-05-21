@@ -21,7 +21,7 @@ Javascript, HTML, CSS, Canva, ChatGPT.
 
 **Html5:** Used for structuring the website's content and elements.
 
-**CSS3:** Responsible for styling and layout using **mediaquery**, enhancing the visual appeal of the website.
+**CSS3:** Responsible for styling and layout and responsive using **mediaquery**, enhancing the visual appeal of the website.
 
 **Javascript:** Implemented to provide interactivity and dynamic functionality to the website using **JQuery**.
 
