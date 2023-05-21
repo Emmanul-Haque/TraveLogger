@@ -25,6 +25,8 @@ Javascript, HTML, CSS.
 
 **Javascript:** Implemented to provide interactivity and dynamic functionality to the website using **JQuery**.
 
+**Canva:** Used for making logo, background and UIs.
+
 
 ## Installation
 
