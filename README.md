@@ -30,44 +30,46 @@ Javascript, HTML, CSS, Canva, ChatGPT.
 **ChatGPT:** Used for making content.
 
 
-##  Installation
+##  Deployment
 
 To run Travelogger locally or on your own server, follow these steps:
+```bash
+1. Clone this repository:
 
-    1. Clone this repository:
-```bash
-  git clone https://github.com/Emmanul-Haque/TraveLogger.git
+    git clone https://github.com/Emmanul-Haque/TraveLogger.git
 ```
-    2. Navigate to the project directory:
 ```bash
-    cd travelogger
+2. Navigate to the project directory:
+
+    cd TraveLogger
 ```
     3. Open the index.html file in your preferred web browser.
 
-        That's it! You should now be able to explore and use 
-        Travelogger on your local machine.
+```bash
+That's it! You should now be able to explore and use Masterji on your local machine.
+```
+
+
 ##  Contributing
     If you'd like to contribute to Travelogger, please follow these steps:
-
-    1. Fork this repository.
-
-    2. Create a new branch: 
 ```bash
+1. Fork this repository.
+```
+```bash
+2. Create a new branch: 
     git checkout -b my-new-feature
 ```
-    3. Make your desired changes and commit them:
 ```bash
+3. Make your desired changes and commit them:
    git commit -am 'Add some feature'
 ```
-    4. Push the changes to your forked repository:
 ```bash
+4. Push the changes to your forked repository:
    git push origin my-new-feature
 ```
-    5. Submit a pull request detailing the changes you made.
-##  License
-
-The Travelogger project is licensed under the EmmanulStudios. You are free to modify and distribute the codebase as needed.
-
+```bash
+5. Submit a pull request detailing the changes you made.
+```
 
 ##  Acknowledgements
 
@@ -76,6 +78,9 @@ The Travelogger project is licensed under the EmmanulStudios. You are free to mo
 - Google Font for the fonts used in the website.
 - AOS library
 
+##  License
+
+The Travelogger project is licensed under the EmmanulStudios. You are free to modify and distribute the codebase as needed.
 
 ##  Contact
 
