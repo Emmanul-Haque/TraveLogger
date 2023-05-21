@@ -7,7 +7,7 @@ Welcome to Travelogger! Welcome to my travel blog website! I'm a passionate expl
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS.
+Javascript, HTML, CSS, Canva, ChatGPT.
 
 
 ## Features
@@ -26,6 +26,8 @@ Javascript, HTML, CSS.
 **Javascript:** Implemented to provide interactivity and dynamic functionality to the website using **JQuery**.
 
 **Canva:** Used for making logo, background and UIs.
+
+**ChatGPT:** Used for making content.
 
 
 ## Installation
