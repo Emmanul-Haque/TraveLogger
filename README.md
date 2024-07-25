@@ -61,7 +61,7 @@ That's it! You should now be able to explore and use Masterji on your local mach
 ```
 ```bash
 3. Make your desired changes and commit them:
-   git commit -am 'Add some feature'
+   git commit -m 'Add some feature'
 ```
 ```bash
 4. Push the changes to your forked repository:
