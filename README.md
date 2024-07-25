@@ -46,7 +46,7 @@ To run Travelogger locally or on your own server, follow these steps:
     3. Open the index.html file in your preferred web browser.
 
 ```bash
-That's it! You should now be able to explore and use Masterji on your local machine.
+That's it! You should now be able to explore and use Travelogger on your local machine.
 ```
 
 
